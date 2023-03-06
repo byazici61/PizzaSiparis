@@ -1,0 +1,12 @@
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.DTO\bin\Debug\PizzaSiparis.DTO.dll
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.DTO\bin\Debug\PizzaSiparis.DTO.pdb
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.dll
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.DTO\bin\Debug\PizzaSiparis.DTO.dll
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.DTO\bin\Debug\PizzaSiparis.DTO.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.dll
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.DTO\obj\Debug\PizzaSiparis.DTO.pdb

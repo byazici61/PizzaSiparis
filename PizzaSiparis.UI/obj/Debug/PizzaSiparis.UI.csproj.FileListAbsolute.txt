@@ -1,0 +1,27 @@
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.UI.exe.config
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.UI.exe
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.UI.pdb
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.DTO.dll
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.DTO.pdb
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.Form1.resources
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.Properties.Resources.resources
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.CopyComplete
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.exe
+C:\Users\melik\source\repos\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.UI.exe.config
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.UI.exe
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.UI.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.DTO.dll
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\bin\Debug\PizzaSiparis.DTO.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.Form1.resources
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.Properties.Resources.resources
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.GenerateResource.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.csproj.CopyComplete
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.exe
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\PizzaSiparis\PizzaSiparis.UI\obj\Debug\PizzaSiparis.UI.FrmRapor.resources
